@@ -6,7 +6,7 @@
 This repository contains the entire [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), in the form of (free!) Jupyter notebooks.
 
 ![cover image](/notebooks/figures/PDSH-cover.png)
-
+![cover image]![](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/figures/PDSH-cover.png)
 ![](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/figures/PDSH-cover.png)
 
 ![cover image](/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/figures/PDSH-cover.png)
